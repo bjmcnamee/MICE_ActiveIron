@@ -1,0 +1,507 @@
+,StudyTitle
+,StudyID
+,Subject_No
+,Randomised
+,RandomisedExt
+,RandomisationNo
+,DoseGroup
+report,DoseGroupNo
+,LocationName
+,DateofVisit1
+,TimeofVisit1
+,InformedConsent
+,DateInformedConsent
+,TimeInformedConsent
+,TimeToStart
+,DOB
+report,Age
+,Sex
+report,Ethnicity
+,SpecifyOther
+report,SmokingCurrent
+,SmokingCurrent
+,PastSmokerQuit date
+,Alcoholconsumption
+report,AlcoholUnitsPerWeek
+,ConcomMedsSupp
+,MedSurgHist
+,IntoleranceToIron
+,UpperGIDesc
+,LowerGIDisc
+,FastingBlood
+,IDorIDAGroup
+report,IronSc
+report,UIBCSc
+report,TIBCSc
+report,TSATSc
+report,FerritinSc
+report,WCCSc
+report,RCCSc
+report,HbSc
+report,HCTSc
+report,MCVSc
+report,MCHSc
+report,MCHCSc
+report,RDWSc
+report,PlatSc
+report,NeutSc
+report,LymphSc
+report,MonoSc
+report,EosinoSc
+report,BasoSc
+report,WgtSc
+report,HgtSc
+report,BMISc
+report,TempSc
+report,SBPSc
+report,DBPSc
+report,HRSc
+,ContraceptionSc
+,ContraceptionType
+,ContraceptionOther
+,The survey includes questions about how you have felt in the past week. Select the option that best fits you and your situation._263527
+,GSRSPainDiscSc
+,GSRSHeartburnSc
+,GSRSRefluxSc
+,GSRSSuckSc
+,GSRSNausVomSc
+,GSRSRumbSc
+,GSRSBloatGasSc
+,GSRSBurpBelchSc
+,GSRSFlatSc
+,GSRSConstipSc
+,GSRSDiarrhoeaSc
+,GSRSLooseStoolsSc
+,GSRSHardStoolsSc
+,GSRSUrgenDefaecSc
+,GSRSIncompleteEmptyingSc
+report,GSRSScoreSc
+,"To be considered eligible for enrollment into the study, subjects must;_263499"
+,"1.	Be able to give written informed consent,_263502"
+,"2.	Be between 18 and 55 years of age,_263503"
+,"3.	Be in generally good health as determined by the investigator,_263504"
+,"4.	Have mild to moderate anaemia (haemoglobin ≥9.5 g/dL and <12.0 g/dL for females and ≥10.0  g/dL and <13.0 g/dL for males, up to 30 patients) or no anaemia (up to 30 patients), _263500"
+,5.	Have ferritin levels <30 μg/L:_263501
+,6.	Have a history of intolerance to oral iron._263505
+,Subjects will be excluded from the study if they meet any of the below criteria:_263506
+,1.	A history of dairy allergy or are hypersensitive to any of the components of the test product:_263507
+,"2.	Are currently taking any iron supplements, or have done so in the previous 2 weeks:_263508"
+,3.     Has Crohn's Disease or Ulcerative Colitis:	_263509
+,4.	Severe anaemia (females with haemoglobin <9.5 g/dL and males with haemoglobin <10.0 g/dL):_263510
+,5.	Females that have started menopause:_263511
+,6. Females using extended‐cycle birth control pills (as these can alter menstrual cycle): _263512
+,"7.	Have a significant acute or chronic, unstable and untreated disease or any condition, which contraindicates, in the investigators judgement, entry to the study:_263513"
+,"8.	Having a condition or have taken a medication that the investigator believes would interfere with the objectives of the study, pose a safety risk or confound the interpretation of the study results; for example, no concurrent medication which interferes with the absorption of iron (e.g. tetracyclines, calcium supplements and proton pump inhibitors)_263514"
+,"9.	Individuals who, in the opinion of the investigator, are considered to be poor attendees or unlikely for any reason to be able to comply with the trial:_263515"
+,"10.	Subjects may not be receiving treatment involving experimental drugs. If the subject has been in a recent experimental trial, these must have been completed not less than 30 days prior to this study:_263516"
+,11. Have a malignant disease or any concomitant end-stage organ disease:_399177
+,For the Investigator _263524
+,Documentation for the Subject _263525
+,Verbal Instructions for the Subject _263526
+,Visit 2
+,Date of Visit:_263546
+report,DaysSinceSc
+,Has the subject experienced any non-treatment emergent events (or changes in any existing medical conditions)  since the last visit? _263548
+,Has the subject changed their medications/supplements consumption since the last visit?_263549
+,Is the subject still eligible for the study based on a review of the inclusion and exclusion criteria?_263550
+report,TempV2
+report,SBPV2
+report,DBPV2
+report,HRV2
+report,WgtV2
+report,BMIV2
+,Is the subject of child bearing potential?_263608
+,"If No, please select the reason from the following options:_263609"
+,"If other, please specify:_263610"
+,"If Yes, was a urine pregnancy test performed?_263611"
+,"If No, indicate the reason and complete End of Study Form: _263612"
+,Date of test:_263613
+,Result of test:_263614
+,Has there been any changes to the contraception method since the last visit?_263615
+,"If Yes, please specify the contraceptive method used:_263616"
+,Has the participant had a fasting blood sample taken?_263607
+report,IronV2
+report,UIBCV2
+report,TIBCV2
+report,TSATV2
+report,FerritinV2
+report,WCCV2
+report,RCCV2
+report,HbV2
+report,HCTV2
+report,MCVV2
+report,MCHV2
+report,MCHCV2
+report,RDWV2
+report,PlatV2
+report,NeutV2
+report,LymphV2
+report,MonoV2
+report,EosinoV2
+report,BasoV2
+,SF-36 Questionnaire
+,1SFGenHealthV2
+,2SFHealthVsLyV2
+,"3. The following questions are about activities you might do during a typical day. Does your health now limit you in these activities? If so, how much? _263620"
+,3SFVigActV2
+,3SFModActV2
+,3SFLiftingV2
+,3SFSeveralStairsV2
+,3SFOneStairsV2
+,3SFBendingV2
+,3SFWalkingMileV2
+,3SFWalkingHundsYardsV2
+,3SFWalking100YardsV2
+,3SFBathingV2
+,"4. During the past 4 weeks, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of your physical health? _263631"
+,4SFCutWorkV2
+,4SFAchievedLessV2
+,4SFLimitedinWorkV2
+,4SFDifficultyWorkV2
+,"5. During the past 4 weeks, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)? _263636"
+,5SFCutWorkV2
+,5SFAccomplishedlessV2
+,5SFLessCarefulV2
+,6SFSocialActivitiesIntereferedV2
+,7SFPainV2
+,8SFPainInterfereWorkV2
+,"9. These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks... _263643"
+report,9SFFulloflifeV2
+,9SFNervousV2
+,9SFDownInDumpsV2
+,9SFCalmPeacefulV2
+report,9SFEnergyV2
+,9SFDownDepressedV2
+report,9SFWornOutV2
+,9SFHappyV2
+report,9SFTiredV2
+,10SFHealthImpactSocialV2
+,11. How TRUE or FALSE is each of the following statements for you? _263654
+,11SFSickEasierV2
+,11SFAsHealthyAsAnyoneV2
+,11SFExpectHealthWorseV2
+,11SFHealthExcellentV2
+,This survey includes questions about how you felt when taking oral iron products in the past. Please select the option which best fit you and your situation at that time. _263565
+,GSRSPainDiOProdsOProds
+,GSRSHeartburnOProds
+,GSRSRefluxOProds
+,GSRSSuckOProds
+,GSRSNausVomOProds
+,GSRSRumbOProds
+,GSRSBloatGasOProds
+,GSRSBurpBelchOProds
+,GSRSFlatOProds
+,GSROProdsonstipOProds
+,GSRSDiarrhoeaOProds
+,GSRSLooseStoolsOProds
+,GSRSHardStoolsOProds
+,GSRSUrgenDefaecOProds
+,GSRSIncompleteEmptyingOProds
+report,GSRSOtherProds
+,The survey includes questions about how you have felt in the past week. Select the option that best fits you and your situation. _263582
+,GSRSPainDiV2V2
+,GSRSHeartburnV2
+,GSRSRefluxV2
+,GSRSSuckV2
+,GSRSNausVomV2
+,GSRSRumbV2
+,GSRSBloatGasV2
+,GSRSBurpBelchV2
+,GSRSFlatV2
+,GSRV2onstipV2
+,GSRSDiarrhoeaV2
+,GSRSLooseStoolsV2
+,GSRSHardStoolsV2
+,GSRSUrgenDefaecV2
+,GSRSIncompleteEmptyingV2
+report,GSRSScoreV2
+,Please provide the following information on the oral iron product(s) you were taking when experiencing the above symptoms: _263584
+,PreviousIron
+,DosePrevIron
+,FreqPrevIron
+,DurationPrevIron
+,ReasonDCPrevIron
+,MPQuestionnaire
+,DateMP
+report,SelfRepHMPV2
+report,HMPLength
+report,HMPsoakthrough
+report,HMPdoubleprotection
+report,HMPLargeClots
+report,HMPInterfereReglifestyle
+report,HMPPeriodPain
+report,HMPEasyBruising
+report,HMPMedications
+,HMPMedicationNarrative
+,Has the subject been randomised?_263557
+,Randomisation Grouping:_398808
+,Randomisation Number:_263558
+,Randomisation Number:_263559
+,Number of capsules of study product dispensed?_263560
+,For the Investigator _263561
+,Documentation for the Subject _263562
+,Apparatus for the Subject _263563
+,Verbal Instructions for the Subject_263564
+,Phone Call 1
+,Date of Phone Call:_264077
+,Has the subject experienced any adverse events (or changes in any existing medical conditions) since the last visit? _264078
+,Has the subject changed their medications/supplements since the last visit?_264079
+,Phone Call Checklist_264080
+,Visit 3
+,Date of Visit:_263695
+report,DaysSinceV2
+,Has the subject experienced any adverse events (or changes in any existing medical conditions)  since the last visit? _263697
+,Has the subject changed their medications/supplements consumption since the last visit?_263698
+,Is the subject still eligible for the study based on a review of the inclusion and exclusion criteria?_263699
+report,TempV3
+report,SBPV3
+report,DBPV3
+report,HRV3
+report,WgtV3
+report,BMIV3
+,Has the participant had a fasting blood sample taken?_263756
+report,IronV3
+report,UIBCV3
+report,TIBCV3
+report,TSATV3
+report,FerritinV3
+report,WCCV3
+report,RCCV3
+report,HbV3
+report,HCTV3
+report,MCVV3
+report,MCHV3
+report,MCHCV3
+report,RDWV3
+report,PlatV3
+report,NeutV3
+report,LymphV3
+report,MonoV3
+report,EosinoV3
+report,BasoV3
+,SF-36 Questionnaire
+,1SFGenHealthV3
+,2SFHealthVsLyV3
+,"3. The following questions are about activities you might do during a typical day. Does your health now limit you in these activities? If so, how much? _263620"
+,3SFVigActV3
+,3SFModActV3
+,3SFLiftingV3
+,3SFSeveralStairsV3
+,3SFOneStairsV3
+,3SFBendingV3
+,3SFWalkingMileV3
+,3SFWalkingHundsYardsV3
+,3SFWalking100YardsV3
+,3SFBathingV3
+,"4. During the past 4 weeks, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of your physical health? _263631"
+,4SFCutWorkV3
+,4SFAchievedLessV3
+,4SFLimitedinWorkV3
+,4SFDifficultyWorkV3
+,"5. During the past 4 weeks, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)? _263636"
+,5SFCutWorkV3
+,5SFAccomplishedlessV3
+,5SFLessCarefulV3
+,6SFSocialActivitiesIntereferedV3
+,7SFPainV3
+,8SFPainInterfereWorkV3
+,"9. These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks... _263643"
+report,9SFFulloflifeV3
+,9SFNervousV3
+,9SFDownInDumpsV3
+,9SFCalmPeacefulV3
+report,9SFEnergyV3
+,9SFDownDepressedV3
+report,9SFWornOutV3
+,9SFHappyV3
+report,9SFTiredV3
+,10SFHealthImpactSocialV3
+,11. How TRUE or FALSE is each of the following statements for you? _263654
+,11SFSickEasierV3
+,11SFAsHealthyAsAnyoneV3
+,11SFExpectHealthWorseV3
+,11SFHealthExcellentV3
+,This survey includes questions about how you felt when taking oral iron products in the past. Please select the option which best fit you and your situation at that time. _263565
+,GSRSPainDiOProdsCheckOProdsCheck
+,GSRSHeartburnOProdsCheck
+,GSRSRefluxOProdsCheck
+,GSRSSuckOProdsCheck
+,GSRSNausVomOProdsCheck
+,GSRSRumbOProdsCheck
+,GSRSBloatGasOProdsCheck
+,GSRSBurpBelchOProdsCheck
+,GSRSFlatOProdsCheck
+,GSROProdsCheckonstipOProdsCheck
+,GSRSDiarrhoeaOProdsCheck
+,GSRSLooseStoolsOProdsCheck
+,GSRSHardStoolsOProdsCheck
+,GSRSUrgenDefaecOProdsCheck
+,GSRSIncompleteEmptyingOProdsCheck
+report,GSRSOtherProdsCheck
+,Please provide the following information on the oral iron product(s) you were taking when experiencing the above symptoms: _269403
+,PreviousIronCheck
+,DosePrevIronCheck
+,FreqPrevIronCheck
+,DurationPrevIronCheck
+,ReasonDCPrevIronCheck
+,The survey includes questions about how you have felt in the past week. Select the option that best fits you and your situation. _263886
+,GSRSPainDiscV3
+,GSRSHeartburnV3
+,GSRSRefluxV3
+,GSRSSuckV3
+,GSRSNausVomV3
+,GSRSRumbV3
+,GSRSBloatGasV3
+,GSRSBurpBelchV3
+,GSRSFlatV3
+,GSRV3onstipV3
+,GSRSDiarrhoeaV3
+,GSRSLooseStoolsV3
+,GSRSHardStoolsV3
+,GSRSUrgenDefaecV3
+,GSRSIncompleteEmptyingV3
+report,GSRSScoreV3
+,"
+
+Name/brand:  _263889"
+,Dose: _263890
+,Frequency of use: _263891
+,Duration of use: _263892
+,Reason for discontinuing: _263893
+,Has the participant returned the Menstrual Period Questionnaire from last visit?_263921
+,Has participant been given Menstrual Period Questionnaire to complete on Day 1 of next menstrual period?	_263909
+,When is date of next menstrual period?_263910
+,DiscomfortOnProd
+,UGIProd
+,LGIProd
+,ExpecteDaysDosesV3
+,Has the subject returned all unused product?_263924
+,UnusedMornCapV3
+,UnusedEvCapV3
+report,ComplianceV3
+,Randomisation Number:_263708
+,Number of capsules of study product dispensed?_263709
+,For the Investigator _263710
+,Apparatus for the Subject _263712
+,Documentation for the Subject _263928
+,Verbal Instructions for the Subject _263713
+,Phone Call 2
+,Date of Phone Call:_264081
+,Has the subject experienced any adverse events (or changes in any existing medical conditions) since the last visit? _264082
+,Has the subject changed their medications/supplements since the last visit?_264083
+,Phone Call Checklist_264084
+,Visit 4
+,Date of Visit:_263956
+report,DaysSinceV3
+,Has the subject experienced any adverse events (or changes in any existing medical conditions)  since the last visit? _263958
+,Has the subject changed their medications/supplements consumption since the last visit?_263959
+,Is the subject still eligible for the study based on a review of the inclusion and exclusion criteria?_263960
+report,TempV4
+report,SBPV4
+report,DBPV4
+report,HRV4
+report,WgtV4
+report,BMIV4
+,Is the subject of child bearing potential?_263993
+,"If No, please select the reason from the following options:_263994"
+,"If other, please specify:_263995"
+,"If Yes, was a urine pregnancy test performed?_263996"
+,"If No, indicate the reason and complete End of Study Form: _263997"
+,Date of test:_263998
+,Result of test:_263999
+,Has there been any changes to the contraception method from the last visit?_264000
+,"If Yes, please specify the contraceptive method used:_264001"
+,Has the participant had a fasting blood sample taken?_263992
+report,IronV4
+report,UIBCV4
+report,TIBCV4
+report,TSATV4
+report,FerritinV4
+report,WCCV4
+report,RCCV4
+report,HbV4
+report,HCTV4
+report,MCVV4
+report,MCHV4
+report,MCHCV4
+report,RDWV4
+report,PlatV4
+report,NeutV4
+report,LymphV4
+report,MonoV4
+report,EosinoV4
+report,BasoV4
+,SF-36 Questionnaire
+,1SFGenHealthV4
+,2SFHealthVsLyV4
+,"3. The following questions are about activities you might do during a typical day. Does your health now limit you in these activities? If so, how much? _263620"
+,3SFVigActV4
+,3SFModActV4
+,3SFLiftingV4
+,3SFSeveralStairsV4
+,3SFOneStairsV4
+,3SFBendingV4
+,3SFWalkingMileV4
+,3SFWalkingHundsYardsV4
+,3SFWalking100YardsV4
+,3SFBathingV4
+,"4. During the past 4 weeks, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of your physical health? _263631"
+,4SFCutWorkV4
+,4SFAchievedLessV4
+,4SFLimitedinWorkV4
+,4SFDifficultyWorkV4
+,"5. During the past 4 weeks, how much of the time have you had any of the following problems with your work or other regular daily activities as a result of any emotional problems (such as feeling depressed or anxious)? _263636"
+,5SFCutWorkV4
+,5SFAccomplishedlessV4
+,5SFLessCarefulV4
+,6SFSocialActivitiesIntereferedV4
+,7SFPainV4
+,8SFPainInterfereWorkV4
+,"9. These questions are about how you feel and how things have been with you during the past 4 weeks. For each question, please give the one answer that comes closest to the way you have been feeling. How much of the time during the past 4 weeks... _263643"
+report,9SFFulloflifeV4
+,9SFNervousV4
+,9SFDownInDumpsV4
+,9SFCalmPeacefulV4
+report,9SFEnergyV4
+,9SFDownDepressedV4
+report,9SFWornOutV4
+,9SFHappyV4
+report,9SFTiredV4
+,10SFHealthImpactSocialV4
+,11. How TRUE or FALSE is each of the following statements for you? _263654
+,11SFSickEasierV4
+,11SFAsHealthyAsAnyoneV4
+,11SFExpectHealthWorseV4
+,11SFHealthExcellentV4
+,The survey includes questions about how you have felt in the past week. Select the option that best fits you and your situation. _264044
+,GSRSPainDiscV4
+,GSRSHeartburnV4
+,GSRSRefluxV4
+,GSRSSuckV4
+,GSRSNausVomV4
+,GSRSRumbV4
+,GSRSBloatGasV4
+,GSRSBurpBelchV4
+,GSRSFlatV4
+,GSRV4onstipV4
+,GSRSDiarrhoeaV4
+,GSRSLooseStoolsV4
+,GSRSHardStoolsV4
+,GSRSUrgenDefaecV4
+,GSRSIncompleteEmptyingV4
+report,GSRSScoreV4
+,Has the participant returned the Menstrual Period Questionnaire from last visit?_264069
+,DiscomfortProdV4
+,UGIV4
+,LGIV4
+,ExpectedDosesV4
+,Has the subject returned all unused product?_264071
+,UnusedMornCapV4
+,UnusedEvCapV4
+report,ComplianceV4
+,Final Visit Checklist_264076
+,Is the subject going to take part in the follow-on study?_362837
+,Please detail reason:_362838
+,Dose of IP dispensed:_362839
+,Number of capsules of study product dispensed:_362840
+,Number of multivitamins dispensed:_362841
